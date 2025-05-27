@@ -1,0 +1,14 @@
+#requirements
+    mcp-sdk
+    mcp-cli[cli]
+    langchain
+    langchain-community
+    langchain-text-splitters
+    langchain-ollama
+    chromadb
+    python-docx
+    openpyxl
+    nest-asyncio
+    # Add 'unstructured' and 'pypdf' if you want to add PDF support later
+    # unstructured
+    # pypdf
