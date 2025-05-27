@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+chroma_db_simple/  # this is the local DB, don't commit 
+company_docs_simple/ # Users to add their own private docs here
